@@ -3,3 +3,10 @@ body{
     margin: 0px;
     padding: 0px;
 }
+.kapsa{
+
+    width: 900px;
+    margin: 20px auto;
+    border: 2px solid black;
+    
+}
