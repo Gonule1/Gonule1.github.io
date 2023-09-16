@@ -8,5 +8,40 @@ body{
     width: 900px;
     margin: 20px auto;
     border: 2px solid black;
-    
+
+}
+.header{
+    padding: 30px;
+}
+
+.header h2{
+    background-color: coral;
+    width: 480px;
+    border: 2px solid orange;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 20px;
+
+}
+.ust_menu{
+    background-color: darkslategrey;
+    height: 40px;
+}
+.ust_menu ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+.ust_menu ul li {
+    float: left;
+}
+.ust_menu ul li a{
+    display: block;
+    height: 40px;
+    width: 150px;
+    text-align: center;
+    line-height: 40px;
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
 }
