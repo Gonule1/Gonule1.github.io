@@ -10,11 +10,7 @@ body{
     border: 2px solid white;
 
 }
-.kapsa img{
-    height: 200px;
-    width: 180px;
-    float: left;
-}
+
 .header{
     border: 30px solid white;
     padding: 30px;
@@ -76,4 +72,11 @@ body{
     width: 600px;
     border-bottom: 2px dashed black;
     padding-left: 20px;
+}
+.sol_taraf img{
+  
+        height: 200px;
+        width: 180px;
+        float: left;
+    
 }
