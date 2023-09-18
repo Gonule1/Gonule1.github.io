@@ -11,6 +11,7 @@ body{
 
 }
 .header{
+    border: 30px solid white;
     padding: 30px;
 }
 
