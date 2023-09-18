@@ -68,7 +68,11 @@ body{
     line-height: 30px;
     text-align: justify;
 }
-
+.sol_taraf h3{
+    width: 600px;
+    border-bottom: 2px dashed black;
+    padding-left: 20px;
+}
 .sol_taraf img{
   
         height: 230px;
