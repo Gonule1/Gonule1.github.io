@@ -65,6 +65,7 @@ body{
 .sol_taraf{
     width: 600px;
     line-height: 30px;
+    text-align: justify;
 }
 .sol_taraf h2{
     width: 600px;
