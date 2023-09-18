@@ -16,9 +16,9 @@ body{
 }
 
 .header h2{
-    background-color: coral;
+    background-color: darkgray;
     width: 480px;
-    border: 2px solid orange;
+    border: 2px solid black;
     border-radius: 5px;
     color: white;
     padding: 5px 20px;
