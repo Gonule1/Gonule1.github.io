@@ -46,3 +46,33 @@ body{
     font-size: 18px;
     text-decoration: none;
 }
+.ust_menu ul li a:hover{
+    color: blue;
+}
+.ara{
+    height: 40px;
+    line-height: 40px;
+    float: right;
+    margin-right: 10px;
+}
+.ara button{
+    width: 60px;
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+
+}
+.sol_taraf{
+    width: 600px;
+    line-height: 30px;
+}
+.sol_taraf h2{
+    width: 600px;
+    border-bottom: 2px dashed black;
+    padding-left: 20px;
+}
+.sol_taraf img{
+    height: 300px;
+    width: 300px;
+    float: left;
+}
